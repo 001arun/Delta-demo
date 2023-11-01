@@ -1,4 +1,2 @@
 # Delta-demo
-
-
-it is a learning file 
+it is a demo  file which is used to learn git and github.
